@@ -7,8 +7,8 @@
 
 ### Apple calculator looks like this :
 
-<img src="https://raw.githubusercontent.com/gvaler/Calculator_iPhone_Interface/main/drawable/apple_calculator.PNG" width="400" height="600" />
+<img src="https://github.com/gvaler/Calculator/blob/main/drawable/apple_calculator.PNG?raw=true" width="400" height="600" />
 
 ### My calculator looks like this :
 
-<img src="https://raw.githubusercontent.com/gvaler/Calculator_iPhone_Interface/main/drawable/my_calculator.png" width="400" height="600" />
+<img src="https://github.com/gvaler/Calculator/blob/main/drawable/my_calculator.png?raw=true" width="400" height="600" />
